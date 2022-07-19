@@ -1,3 +1,16 @@
+git init
+git config user.name my-name
+git config user.email my-email
+git add file.txt or git add .
+git commit -m 'message'
+git branch b1
+git checkout b1
+git merge master [ you should be in the branch b1]
+git add .
+git clone http.....git
+git push
+
+
 Easy Sound Recorder
 =============
 
