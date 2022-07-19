@@ -8,7 +8,11 @@ git checkout b1
 git merge master [ you should be in the branch b1]
 git add .
 git clone http.....git
-git push
+-------------------------------
+git remote add origin https://github.com/jntuv/git.git
+git branch -M main
+git push -u origin main
+
 
 
 Easy Sound Recorder
