@@ -12,6 +12,7 @@ git clone http.....git
 git remote add origin https://github.com/jntuv/git.git
 git branch -M main
 git push -u origin main
+$ git remote set-url origin git@github.com:ppreyer/first_app.git //to change remote repo
 
 
 
